@@ -1,0 +1,9 @@
+D:\Projectos\RoboCode Project\MyRoboCode\MyRoboCode\bin\Release\RJFF.MyFirst_1.0.dll
+D:\Projectos\RoboCode Project\MyRoboCode\MyRoboCode\bin\Release\RJFF.MyFirst_1.0.pdb
+D:\Projectos\RoboCode Project\MyRoboCode\MyRoboCode\bin\Release\robocode.dll
+D:\Projectos\RoboCode Project\MyRoboCode\MyRoboCode\bin\Release\robocode.xml
+D:\Projectos\RoboCode Project\MyRoboCode\MyRoboCode\obj\Release\MyRoboCode.csproj.CoreCompileInputs.cache
+D:\Projectos\RoboCode Project\MyRoboCode\MyRoboCode\obj\Release\MyRoboCode.csproj.CopyComplete
+D:\Projectos\RoboCode Project\MyRoboCode\MyRoboCode\obj\Release\RJFF.MyFirst_1.0.dll
+D:\Projectos\RoboCode Project\MyRoboCode\MyRoboCode\obj\Release\RJFF.MyFirst_1.0.pdb
+D:\Projectos\RoboCode Project\MyRoboCode\MyRoboCode\obj\Release\MyRoboCode.csprojAssemblyReference.cache
